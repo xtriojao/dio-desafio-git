@@ -1,9 +1,10 @@
 # Repositorio do meu primeiro Desafio de Projeto GitHub da DIO
-## Meu primeiro desafio do bootcamp dio Potência Tech _powered by_  <img src="/assets/images/ifood2.png" alt="The San Juan Mountains are beautiful!" title="San Juan Mountains"/> 
 
-## <center>Projeto sobre Git/GitHub.</center>
+## Meu primeiro desafio do bootcamp dio Potência Tech _powered by_  <img src="/assets/images/ifood2.png" alt="logo do ifood" title="San Juan Mountains"/> 
 
-Abaixo listo alguns dos comando que aprendi ao logo do curso de Git/GitHub da dio.
+### Projeto sobre Git/GitHub.
+
+Abaixa listo alguns dos comando que aprendi ao logo do curso.
 
 - **git init** - Para iniciar um repositório na minha maquina.
 
@@ -20,10 +21,3 @@ Abaixo listo alguns dos comando que aprendi ao logo do curso de Git/GitHub da di
   
 
  Com esse projeto conseguir criar um repositório no GitHub, clona ele para minha máquina é fazer algumas alterações é enviar as alterações para o meu repositório. 
-
-
-
-
-
-
-
