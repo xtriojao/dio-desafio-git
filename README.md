@@ -1,5 +1,7 @@
 # Repositorio do meu primeiro Desafio de Projeto GitHub da DIO
-## Meu primeiro desafio do bootcamp dio Potência Tech _powered by_  <img src="/assets/images/ifood2.png" alt="The San Juan Mountains are beautiful!" title="San Juan Mountains"/> Projeto sobre Git/GitHub.
+## Meu primeiro desafio do bootcamp dio Potência Tech _powered by_  <img src="/assets/images/ifood2.png" alt="The San Juan Mountains are beautiful!" title="San Juan Mountains"/> 
+
+## <center>Projeto sobre Git/GitHub.</center>
 
 Abaixo listo alguns dos comando que aprendi ao logo do curso de Git/GitHub da dio.
 
